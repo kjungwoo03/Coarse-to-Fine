@@ -1,0 +1,1001 @@
+class_idx,wnid,label,method,target_k,cluster_id
+0,n01440764,tench,clip_kmeans,10,8
+1,n01443537,goldfish,clip_kmeans,10,1
+2,n01484850,great white shark,clip_kmeans,10,8
+3,n01491361,tiger shark,clip_kmeans,10,8
+4,n01494475,hammerhead shark,clip_kmeans,10,8
+5,n01496331,electric ray,clip_kmeans,10,8
+6,n01498041,stingray,clip_kmeans,10,8
+7,n01514668,rooster,clip_kmeans,10,8
+8,n01514859,hen,clip_kmeans,10,1
+9,n01518878,ostrich,clip_kmeans,10,8
+10,n01530575,brambling,clip_kmeans,10,2
+11,n01531178,goldfinch,clip_kmeans,10,2
+12,n01532829,house finch,clip_kmeans,10,2
+13,n01534433,junco,clip_kmeans,10,2
+14,n01537544,indigo bunting,clip_kmeans,10,2
+15,n01558993,American robin,clip_kmeans,10,2
+16,n01560419,bulbul,clip_kmeans,10,0
+17,n01580077,jay,clip_kmeans,10,8
+18,n01582220,magpie,clip_kmeans,10,8
+19,n01592084,chickadee,clip_kmeans,10,8
+20,n01601694,American dipper,clip_kmeans,10,2
+21,n01608432,kite (bird of prey),clip_kmeans,10,8
+22,n01614925,bald eagle,clip_kmeans,10,8
+23,n01616318,vulture,clip_kmeans,10,8
+24,n01622779,great grey owl,clip_kmeans,10,0
+25,n01629819,fire salamander,clip_kmeans,10,2
+26,n01630670,smooth newt,clip_kmeans,10,2
+27,n01631663,newt,clip_kmeans,10,8
+28,n01632458,spotted salamander,clip_kmeans,10,2
+29,n01632777,axolotl,clip_kmeans,10,8
+30,n01641577,American bullfrog,clip_kmeans,10,2
+31,n01644373,tree frog,clip_kmeans,10,8
+32,n01644900,tailed frog,clip_kmeans,10,2
+33,n01664065,loggerhead sea turtle,clip_kmeans,10,8
+34,n01665541,leatherback sea turtle,clip_kmeans,10,8
+35,n01667114,mud turtle,clip_kmeans,10,2
+36,n01667778,terrapin,clip_kmeans,10,8
+37,n01669191,box turtle,clip_kmeans,10,2
+38,n01675722,banded gecko,clip_kmeans,10,2
+39,n01677366,green iguana,clip_kmeans,10,2
+40,n01682714,Carolina anole,clip_kmeans,10,2
+41,n01685808,desert grassland whiptail lizard,clip_kmeans,10,2
+42,n01687978,agama,clip_kmeans,10,2
+43,n01688243,frilled-necked lizard,clip_kmeans,10,2
+44,n01689811,alligator lizard,clip_kmeans,10,2
+45,n01692333,Gila monster,clip_kmeans,10,2
+46,n01693334,European green lizard,clip_kmeans,10,2
+47,n01694178,chameleon,clip_kmeans,10,8
+48,n01695060,Komodo dragon,clip_kmeans,10,8
+49,n01697457,Nile crocodile,clip_kmeans,10,8
+50,n01698640,American alligator,clip_kmeans,10,2
+51,n01704323,triceratops,clip_kmeans,10,8
+52,n01728572,worm snake,clip_kmeans,10,2
+53,n01728920,ring-necked snake,clip_kmeans,10,2
+54,n01729322,eastern hog-nosed snake,clip_kmeans,10,2
+55,n01729977,smooth green snake,clip_kmeans,10,2
+56,n01734418,kingsnake,clip_kmeans,10,2
+57,n01735189,garter snake,clip_kmeans,10,2
+58,n01737021,water snake,clip_kmeans,10,8
+59,n01739381,vine snake,clip_kmeans,10,2
+60,n01740131,night snake,clip_kmeans,10,8
+61,n01742172,boa constrictor,clip_kmeans,10,8
+62,n01744401,African rock python,clip_kmeans,10,2
+63,n01748264,Indian cobra,clip_kmeans,10,2
+64,n01749939,green mamba,clip_kmeans,10,2
+65,n01751748,sea snake,clip_kmeans,10,8
+66,n01753488,Saharan horned viper,clip_kmeans,10,2
+67,n01755581,eastern diamondback rattlesnake,clip_kmeans,10,2
+68,n01756291,sidewinder rattlesnake,clip_kmeans,10,2
+69,n01768244,trilobite,clip_kmeans,10,8
+70,n01770081,harvestman,clip_kmeans,10,2
+71,n01770393,scorpion,clip_kmeans,10,8
+72,n01773157,yellow garden spider,clip_kmeans,10,2
+73,n01773549,barn spider,clip_kmeans,10,8
+74,n01773797,European garden spider,clip_kmeans,10,8
+75,n01774384,southern black widow,clip_kmeans,10,2
+76,n01774750,tarantula,clip_kmeans,10,8
+77,n01775062,wolf spider,clip_kmeans,10,8
+78,n01776313,tick,clip_kmeans,10,1
+79,n01784675,centipede,clip_kmeans,10,1
+80,n01795545,black grouse,clip_kmeans,10,2
+81,n01796340,ptarmigan,clip_kmeans,10,2
+82,n01797886,ruffed grouse,clip_kmeans,10,2
+83,n01798484,prairie grouse,clip_kmeans,10,2
+84,n01806143,peafowl,clip_kmeans,10,2
+85,n01806567,quail,clip_kmeans,10,8
+86,n01807496,partridge,clip_kmeans,10,8
+87,n01817953,african grey parrot,clip_kmeans,10,0
+88,n01818515,macaw,clip_kmeans,10,0
+89,n01819313,sulphur-crested cockatoo,clip_kmeans,10,0
+90,n01820546,lorikeet,clip_kmeans,10,0
+91,n01824575,coucal,clip_kmeans,10,2
+92,n01828970,bee eater,clip_kmeans,10,2
+93,n01829413,hornbill,clip_kmeans,10,0
+94,n01833805,hummingbird,clip_kmeans,10,8
+95,n01843065,jacamar,clip_kmeans,10,0
+96,n01843383,toucan,clip_kmeans,10,8
+97,n01847000,duck,clip_kmeans,10,1
+98,n01855032,red-breasted merganser,clip_kmeans,10,2
+99,n01855672,goose,clip_kmeans,10,8
+100,n01860187,black swan,clip_kmeans,10,8
+101,n01871265,tusker,clip_kmeans,10,8
+102,n01872401,echidna,clip_kmeans,10,8
+103,n01873310,platypus,clip_kmeans,10,8
+104,n01877812,wallaby,clip_kmeans,10,8
+105,n01882714,koala,clip_kmeans,10,8
+106,n01883070,wombat,clip_kmeans,10,8
+107,n01910747,jellyfish,clip_kmeans,10,8
+108,n01914609,sea anemone,clip_kmeans,10,8
+109,n01917289,brain coral,clip_kmeans,10,8
+110,n01924916,flatworm,clip_kmeans,10,8
+111,n01930112,nematode,clip_kmeans,10,1
+112,n01943899,conch,clip_kmeans,10,1
+113,n01944390,snail,clip_kmeans,10,1
+114,n01945685,slug,clip_kmeans,10,1
+115,n01950731,sea slug,clip_kmeans,10,8
+116,n01955084,chiton,clip_kmeans,10,8
+117,n01968897,chambered nautilus,clip_kmeans,10,2
+118,n01978287,Dungeness crab,clip_kmeans,10,8
+119,n01978455,rock crab,clip_kmeans,10,8
+120,n01980166,fiddler crab,clip_kmeans,10,2
+121,n01981276,red king crab,clip_kmeans,10,8
+122,n01983481,American lobster,clip_kmeans,10,8
+123,n01984695,spiny lobster,clip_kmeans,10,8
+124,n01985128,crayfish,clip_kmeans,10,8
+125,n01986214,hermit crab,clip_kmeans,10,8
+126,n01990800,isopod,clip_kmeans,10,8
+127,n02002556,white stork,clip_kmeans,10,0
+128,n02002724,black stork,clip_kmeans,10,0
+129,n02006656,spoonbill,clip_kmeans,10,2
+130,n02007558,flamingo,clip_kmeans,10,8
+131,n02009229,little blue heron,clip_kmeans,10,2
+132,n02009912,great egret,clip_kmeans,10,2
+133,n02011460,bittern bird,clip_kmeans,10,2
+134,n02012849,crane bird,clip_kmeans,10,8
+135,n02013706,limpkin,clip_kmeans,10,2
+136,n02017213,common gallinule,clip_kmeans,10,2
+137,n02018207,American coot,clip_kmeans,10,2
+138,n02018795,bustard,clip_kmeans,10,2
+139,n02025239,ruddy turnstone,clip_kmeans,10,2
+140,n02027492,dunlin,clip_kmeans,10,2
+141,n02028035,common redshank,clip_kmeans,10,2
+142,n02033041,dowitcher,clip_kmeans,10,2
+143,n02037110,oystercatcher,clip_kmeans,10,2
+144,n02051845,pelican,clip_kmeans,10,8
+145,n02056570,king penguin,clip_kmeans,10,0
+146,n02058221,albatross,clip_kmeans,10,8
+147,n02066245,grey whale,clip_kmeans,10,8
+148,n02071294,killer whale,clip_kmeans,10,8
+149,n02074367,dugong,clip_kmeans,10,8
+150,n02077923,sea lion,clip_kmeans,10,8
+151,n02085620,Chihuahua,clip_kmeans,10,8
+152,n02085782,Japanese Chin,clip_kmeans,10,4
+153,n02085936,Maltese,clip_kmeans,10,8
+154,n02086079,Pekingese,clip_kmeans,10,4
+155,n02086240,Shih Tzu,clip_kmeans,10,4
+156,n02086646,King Charles Spaniel,clip_kmeans,10,4
+157,n02086910,Papillon,clip_kmeans,10,8
+158,n02087046,toy terrier,clip_kmeans,10,6
+159,n02087394,Rhodesian Ridgeback,clip_kmeans,10,6
+160,n02088094,Afghan Hound,clip_kmeans,10,4
+161,n02088238,Basset Hound,clip_kmeans,10,6
+162,n02088364,Beagle,clip_kmeans,10,6
+163,n02088466,Bloodhound,clip_kmeans,10,6
+164,n02088632,Bluetick Coonhound,clip_kmeans,10,6
+165,n02089078,Black and Tan Coonhound,clip_kmeans,10,6
+166,n02089867,Treeing Walker Coonhound,clip_kmeans,10,6
+167,n02089973,English foxhound,clip_kmeans,10,6
+168,n02090379,Redbone Coonhound,clip_kmeans,10,6
+169,n02090622,borzoi,clip_kmeans,10,4
+170,n02090721,Irish Wolfhound,clip_kmeans,10,4
+171,n02091032,Italian Greyhound,clip_kmeans,10,6
+172,n02091134,Whippet,clip_kmeans,10,6
+173,n02091244,Ibizan Hound,clip_kmeans,10,6
+174,n02091467,Norwegian Elkhound,clip_kmeans,10,4
+175,n02091635,Otterhound,clip_kmeans,10,4
+176,n02091831,Saluki,clip_kmeans,10,6
+177,n02092002,Scottish Deerhound,clip_kmeans,10,4
+178,n02092339,Weimaraner,clip_kmeans,10,6
+179,n02093256,Staffordshire Bull Terrier,clip_kmeans,10,6
+180,n02093428,American Staffordshire Terrier,clip_kmeans,10,6
+181,n02093647,Bedlington Terrier,clip_kmeans,10,4
+182,n02093754,Border Terrier,clip_kmeans,10,6
+183,n02093859,Kerry Blue Terrier,clip_kmeans,10,4
+184,n02093991,Irish Terrier,clip_kmeans,10,6
+185,n02094114,Norfolk Terrier,clip_kmeans,10,6
+186,n02094258,Norwich Terrier,clip_kmeans,10,6
+187,n02094433,Yorkshire Terrier,clip_kmeans,10,6
+188,n02095314,Wire Fox Terrier,clip_kmeans,10,6
+189,n02095570,Lakeland Terrier,clip_kmeans,10,6
+190,n02095889,Sealyham Terrier,clip_kmeans,10,6
+191,n02096051,Airedale Terrier,clip_kmeans,10,6
+192,n02096177,Cairn Terrier,clip_kmeans,10,6
+193,n02096294,Australian Terrier,clip_kmeans,10,6
+194,n02096437,Dandie Dinmont Terrier,clip_kmeans,10,4
+195,n02096585,Boston Terrier,clip_kmeans,10,6
+196,n02097047,Miniature Schnauzer,clip_kmeans,10,6
+197,n02097130,Giant Schnauzer,clip_kmeans,10,4
+198,n02097209,Standard Schnauzer,clip_kmeans,10,4
+199,n02097298,Scottish Terrier,clip_kmeans,10,6
+200,n02097474,Tibetan Terrier,clip_kmeans,10,4
+201,n02097658,Australian Silky Terrier,clip_kmeans,10,6
+202,n02098105,Soft-coated Wheaten Terrier,clip_kmeans,10,4
+203,n02098286,West Highland White Terrier,clip_kmeans,10,6
+204,n02098413,Lhasa Apso,clip_kmeans,10,4
+205,n02099267,Flat-Coated Retriever,clip_kmeans,10,4
+206,n02099429,Curly-coated Retriever,clip_kmeans,10,4
+207,n02099601,Golden Retriever,clip_kmeans,10,1
+208,n02099712,Labrador Retriever,clip_kmeans,10,6
+209,n02099849,Chesapeake Bay Retriever,clip_kmeans,10,4
+210,n02100236,German Shorthaired Pointer,clip_kmeans,10,6
+211,n02100583,Vizsla,clip_kmeans,10,6
+212,n02100735,English Setter,clip_kmeans,10,4
+213,n02100877,Irish Setter,clip_kmeans,10,4
+214,n02101006,Gordon Setter,clip_kmeans,10,4
+215,n02101388,Brittany dog,clip_kmeans,10,6
+216,n02101556,Clumber Spaniel,clip_kmeans,10,4
+217,n02102040,English Springer Spaniel,clip_kmeans,10,4
+218,n02102177,Welsh Springer Spaniel,clip_kmeans,10,4
+219,n02102318,Cocker Spaniel,clip_kmeans,10,4
+220,n02102480,Sussex Spaniel,clip_kmeans,10,4
+221,n02102973,Irish Water Spaniel,clip_kmeans,10,4
+222,n02104029,Kuvasz,clip_kmeans,10,4
+223,n02104365,Schipperke,clip_kmeans,10,6
+224,n02105056,Groenendael dog,clip_kmeans,10,4
+225,n02105162,Malinois,clip_kmeans,10,6
+226,n02105251,Briard,clip_kmeans,10,4
+227,n02105412,Australian Kelpie,clip_kmeans,10,6
+228,n02105505,Komondor,clip_kmeans,10,4
+229,n02105641,Old English Sheepdog,clip_kmeans,10,4
+230,n02105855,Shetland Sheepdog,clip_kmeans,10,6
+231,n02106030,collie,clip_kmeans,10,8
+232,n02106166,Border Collie,clip_kmeans,10,4
+233,n02106382,Bouvier des Flandres dog,clip_kmeans,10,4
+234,n02106550,Rottweiler,clip_kmeans,10,6
+235,n02106662,German Shepherd Dog,clip_kmeans,10,6
+236,n02107142,Dobermann,clip_kmeans,10,6
+237,n02107312,Miniature Pinscher,clip_kmeans,10,6
+238,n02107574,Greater Swiss Mountain Dog,clip_kmeans,10,6
+239,n02107683,Bernese Mountain Dog,clip_kmeans,10,4
+240,n02107908,Appenzeller Sennenhund,clip_kmeans,10,6
+241,n02108000,Entlebucher Sennenhund,clip_kmeans,10,6
+242,n02108089,Boxer,clip_kmeans,10,8
+243,n02108422,Bullmastiff,clip_kmeans,10,4
+244,n02108551,Tibetan Mastiff,clip_kmeans,10,4
+245,n02108915,French Bulldog,clip_kmeans,10,6
+246,n02109047,Great Dane,clip_kmeans,10,8
+247,n02109525,St. Bernard,clip_kmeans,10,4
+248,n02109961,husky,clip_kmeans,10,8
+249,n02110063,Alaskan Malamute,clip_kmeans,10,4
+250,n02110185,Siberian Husky,clip_kmeans,10,8
+251,n02110341,Dalmatian,clip_kmeans,10,6
+252,n02110627,Affenpinscher,clip_kmeans,10,4
+253,n02110806,Basenji,clip_kmeans,10,6
+254,n02110958,pug,clip_kmeans,10,1
+255,n02111129,Leonberger,clip_kmeans,10,4
+256,n02111277,Newfoundland dog,clip_kmeans,10,4
+257,n02111500,Great Pyrenees dog,clip_kmeans,10,4
+258,n02111889,Samoyed,clip_kmeans,10,4
+259,n02112018,Pomeranian,clip_kmeans,10,1
+260,n02112137,Chow Chow,clip_kmeans,10,4
+261,n02112350,Keeshond,clip_kmeans,10,4
+262,n02112706,brussels griffon,clip_kmeans,10,4
+263,n02113023,Pembroke Welsh Corgi,clip_kmeans,10,6
+264,n02113186,Cardigan Welsh Corgi,clip_kmeans,10,6
+265,n02113624,Toy Poodle,clip_kmeans,10,4
+266,n02113712,Miniature Poodle,clip_kmeans,10,4
+267,n02113799,Standard Poodle,clip_kmeans,10,4
+268,n02113978,Mexican hairless dog (xoloitzcuintli),clip_kmeans,10,6
+269,n02114367,grey wolf,clip_kmeans,10,8
+270,n02114548,Alaskan tundra wolf,clip_kmeans,10,4
+271,n02114712,red wolf or maned wolf,clip_kmeans,10,8
+272,n02114855,coyote,clip_kmeans,10,8
+273,n02115641,dingo,clip_kmeans,10,8
+274,n02115913,dhole,clip_kmeans,10,6
+275,n02116738,African wild dog,clip_kmeans,10,6
+276,n02117135,hyena,clip_kmeans,10,8
+277,n02119022,red fox,clip_kmeans,10,8
+278,n02119789,kit fox,clip_kmeans,10,2
+279,n02120079,Arctic fox,clip_kmeans,10,0
+280,n02120505,grey fox,clip_kmeans,10,8
+281,n02123045,tabby cat,clip_kmeans,10,8
+282,n02123159,tiger cat,clip_kmeans,10,8
+283,n02123394,Persian cat,clip_kmeans,10,8
+284,n02123597,Siamese cat,clip_kmeans,10,8
+285,n02124075,Egyptian Mau,clip_kmeans,10,4
+286,n02125311,cougar,clip_kmeans,10,8
+287,n02127052,lynx,clip_kmeans,10,8
+288,n02128385,leopard,clip_kmeans,10,8
+289,n02128757,snow leopard,clip_kmeans,10,8
+290,n02128925,jaguar,clip_kmeans,10,8
+291,n02129165,lion,clip_kmeans,10,8
+292,n02129604,tiger,clip_kmeans,10,8
+293,n02130308,cheetah,clip_kmeans,10,8
+294,n02132136,brown bear,clip_kmeans,10,8
+295,n02133161,American black bear,clip_kmeans,10,8
+296,n02134084,polar bear,clip_kmeans,10,8
+297,n02134418,sloth bear,clip_kmeans,10,0
+298,n02137549,mongoose,clip_kmeans,10,8
+299,n02138441,meerkat,clip_kmeans,10,8
+300,n02165105,tiger beetle,clip_kmeans,10,2
+301,n02165456,ladybug,clip_kmeans,10,1
+302,n02167151,ground beetle,clip_kmeans,10,8
+303,n02168699,longhorn beetle,clip_kmeans,10,2
+304,n02169497,leaf beetle,clip_kmeans,10,8
+305,n02172182,dung beetle,clip_kmeans,10,8
+306,n02174001,rhinoceros beetle,clip_kmeans,10,8
+307,n02177972,weevil,clip_kmeans,10,8
+308,n02190166,fly,clip_kmeans,10,1
+309,n02206856,bee,clip_kmeans,10,1
+310,n02219486,ant,clip_kmeans,10,1
+311,n02226429,grasshopper,clip_kmeans,10,8
+312,n02229544,cricket insect,clip_kmeans,10,8
+313,n02231487,stick insect,clip_kmeans,10,8
+314,n02233338,cockroach,clip_kmeans,10,8
+315,n02236044,praying mantis,clip_kmeans,10,8
+316,n02256656,cicada,clip_kmeans,10,8
+317,n02259212,leafhopper,clip_kmeans,10,2
+318,n02264363,lacewing,clip_kmeans,10,8
+319,n02268443,dragonfly,clip_kmeans,10,8
+320,n02268853,damselfly,clip_kmeans,10,2
+321,n02276258,red admiral butterfly,clip_kmeans,10,2
+322,n02277742,ringlet butterfly,clip_kmeans,10,2
+323,n02279972,monarch butterfly,clip_kmeans,10,8
+324,n02280649,small white butterfly,clip_kmeans,10,8
+325,n02281406,sulphur butterfly,clip_kmeans,10,2
+326,n02281787,gossamer-winged butterfly,clip_kmeans,10,8
+327,n02317335,starfish,clip_kmeans,10,8
+328,n02319095,sea urchin,clip_kmeans,10,8
+329,n02321529,sea cucumber,clip_kmeans,10,8
+330,n02325366,cottontail rabbit,clip_kmeans,10,8
+331,n02326432,hare,clip_kmeans,10,8
+332,n02328150,Angora rabbit,clip_kmeans,10,4
+333,n02342885,hamster,clip_kmeans,10,1
+334,n02346627,porcupine,clip_kmeans,10,8
+335,n02356798,fox squirrel,clip_kmeans,10,2
+336,n02361337,marmot,clip_kmeans,10,8
+337,n02363005,beaver,clip_kmeans,10,8
+338,n02364673,guinea pig,clip_kmeans,10,8
+339,n02389026,common sorrel horse,clip_kmeans,10,8
+340,n02391049,zebra,clip_kmeans,10,8
+341,n02395406,pig,clip_kmeans,10,1
+342,n02396427,wild boar,clip_kmeans,10,8
+343,n02397096,warthog,clip_kmeans,10,8
+344,n02398521,hippopotamus,clip_kmeans,10,8
+345,n02403003,ox,clip_kmeans,10,8
+346,n02408429,water buffalo,clip_kmeans,10,8
+347,n02410509,bison,clip_kmeans,10,8
+348,n02412080,ram (adult male sheep),clip_kmeans,10,8
+349,n02415577,bighorn sheep,clip_kmeans,10,8
+350,n02417914,Alpine ibex,clip_kmeans,10,0
+351,n02422106,hartebeest,clip_kmeans,10,0
+352,n02422699,impala (antelope),clip_kmeans,10,2
+353,n02423022,gazelle,clip_kmeans,10,8
+354,n02437312,arabian camel,clip_kmeans,10,8
+355,n02437616,llama,clip_kmeans,10,8
+356,n02441942,weasel,clip_kmeans,10,8
+357,n02442845,mink,clip_kmeans,10,8
+358,n02443114,European polecat,clip_kmeans,10,0
+359,n02443484,black-footed ferret,clip_kmeans,10,0
+360,n02444819,otter,clip_kmeans,10,8
+361,n02445715,skunk,clip_kmeans,10,8
+362,n02447366,badger,clip_kmeans,10,8
+363,n02454379,armadillo,clip_kmeans,10,8
+364,n02457408,three-toed sloth,clip_kmeans,10,0
+365,n02480495,orangutan,clip_kmeans,10,0
+366,n02480855,gorilla,clip_kmeans,10,8
+367,n02481823,chimpanzee,clip_kmeans,10,0
+368,n02483362,gibbon,clip_kmeans,10,0
+369,n02483708,siamang,clip_kmeans,10,0
+370,n02484975,guenon,clip_kmeans,10,0
+371,n02486261,patas monkey,clip_kmeans,10,0
+372,n02486410,baboon,clip_kmeans,10,0
+373,n02487347,macaque,clip_kmeans,10,0
+374,n02488291,langur,clip_kmeans,10,0
+375,n02488702,black-and-white colobus,clip_kmeans,10,0
+376,n02489166,proboscis monkey,clip_kmeans,10,0
+377,n02490219,marmoset,clip_kmeans,10,0
+378,n02492035,white-headed capuchin,clip_kmeans,10,0
+379,n02492660,howler monkey,clip_kmeans,10,0
+380,n02493509,titi monkey,clip_kmeans,10,0
+381,n02493793,Geoffroy's spider monkey,clip_kmeans,10,0
+382,n02494079,common squirrel monkey,clip_kmeans,10,0
+383,n02497673,ring-tailed lemur,clip_kmeans,10,0
+384,n02500267,indri,clip_kmeans,10,0
+385,n02504013,Asian elephant,clip_kmeans,10,8
+386,n02504458,African bush elephant,clip_kmeans,10,8
+387,n02509815,red panda,clip_kmeans,10,0
+388,n02510455,giant panda,clip_kmeans,10,8
+389,n02514041,snoek fish,clip_kmeans,10,8
+390,n02526121,eel,clip_kmeans,10,8
+391,n02536864,silver salmon,clip_kmeans,10,8
+392,n02606052,rock beauty fish,clip_kmeans,10,8
+393,n02607072,clownfish,clip_kmeans,10,8
+394,n02640242,sturgeon,clip_kmeans,10,8
+395,n02641379,gar fish,clip_kmeans,10,8
+396,n02643566,lionfish,clip_kmeans,10,8
+397,n02655020,pufferfish,clip_kmeans,10,8
+398,n02666196,abacus,clip_kmeans,10,5
+399,n02667093,abaya,clip_kmeans,10,9
+400,n02669723,academic gown,clip_kmeans,10,9
+401,n02672831,accordion,clip_kmeans,10,5
+402,n02676566,acoustic guitar,clip_kmeans,10,3
+403,n02687172,aircraft carrier,clip_kmeans,10,7
+404,n02690373,airliner,clip_kmeans,10,7
+405,n02692877,airship,clip_kmeans,10,7
+406,n02699494,altar,clip_kmeans,10,5
+407,n02701002,ambulance,clip_kmeans,10,7
+408,n02704792,amphibious vehicle,clip_kmeans,10,7
+409,n02708093,analog clock,clip_kmeans,10,5
+410,n02727426,apiary,clip_kmeans,10,7
+411,n02730930,apron,clip_kmeans,10,9
+412,n02747177,trash can,clip_kmeans,10,5
+413,n02749479,assault rifle,clip_kmeans,10,3
+414,n02769748,backpack,clip_kmeans,10,9
+415,n02776631,bakery,clip_kmeans,10,5
+416,n02777292,balance beam,clip_kmeans,10,3
+417,n02782093,balloon,clip_kmeans,10,1
+418,n02783161,ballpoint pen,clip_kmeans,10,3
+419,n02786058,Band-Aid,clip_kmeans,10,3
+420,n02787622,banjo,clip_kmeans,10,3
+421,n02788148,baluster / handrail,clip_kmeans,10,3
+422,n02790996,barbell,clip_kmeans,10,3
+423,n02791124,barber chair,clip_kmeans,10,5
+424,n02791270,barbershop,clip_kmeans,10,5
+425,n02793495,barn,clip_kmeans,10,7
+426,n02794156,barometer,clip_kmeans,10,5
+427,n02795169,barrel,clip_kmeans,10,5
+428,n02797295,wheelbarrow,clip_kmeans,10,7
+429,n02799071,baseball,clip_kmeans,10,1
+430,n02802426,basketball,clip_kmeans,10,1
+431,n02804414,bassinet,clip_kmeans,10,5
+432,n02804610,bassoon,clip_kmeans,10,3
+433,n02807133,swimming cap,clip_kmeans,10,9
+434,n02808304,bath towel,clip_kmeans,10,9
+435,n02808440,bathtub,clip_kmeans,10,5
+436,n02814533,station wagon,clip_kmeans,10,7
+437,n02814860,lighthouse,clip_kmeans,10,7
+438,n02815834,beaker,clip_kmeans,10,3
+439,n02817516,military hat (bearskin or shako),clip_kmeans,10,9
+440,n02823428,beer bottle,clip_kmeans,10,3
+441,n02823750,beer glass,clip_kmeans,10,3
+442,n02825657,bell tower,clip_kmeans,10,5
+443,n02834397,baby bib,clip_kmeans,10,9
+444,n02835271,tandem bicycle,clip_kmeans,10,7
+445,n02837789,bikini,clip_kmeans,10,9
+446,n02840245,ring binder,clip_kmeans,10,5
+447,n02841315,binoculars,clip_kmeans,10,3
+448,n02843684,birdhouse,clip_kmeans,10,5
+449,n02859443,boathouse,clip_kmeans,10,7
+450,n02860847,bobsleigh,clip_kmeans,10,7
+451,n02865351,bolo tie,clip_kmeans,10,3
+452,n02869837,poke bonnet,clip_kmeans,10,9
+453,n02870880,bookcase,clip_kmeans,10,5
+454,n02871525,bookstore,clip_kmeans,10,5
+455,n02877765,bottle cap,clip_kmeans,10,3
+456,n02879718,hunting bow,clip_kmeans,10,3
+457,n02883205,bow tie,clip_kmeans,10,9
+458,n02892201,brass memorial plaque,clip_kmeans,10,5
+459,n02892767,bra,clip_kmeans,10,9
+460,n02894605,breakwater,clip_kmeans,10,7
+461,n02895154,breastplate,clip_kmeans,10,9
+462,n02906734,broom,clip_kmeans,10,3
+463,n02909870,bucket,clip_kmeans,10,5
+464,n02910353,buckle,clip_kmeans,10,3
+465,n02916936,bulletproof vest,clip_kmeans,10,9
+466,n02917067,high-speed train,clip_kmeans,10,7
+467,n02927161,butcher shop,clip_kmeans,10,5
+468,n02930766,taxicab,clip_kmeans,10,7
+469,n02939185,cauldron,clip_kmeans,10,5
+470,n02948072,candle,clip_kmeans,10,3
+471,n02950826,cannon,clip_kmeans,10,3
+472,n02951358,canoe,clip_kmeans,10,7
+473,n02951585,can opener,clip_kmeans,10,3
+474,n02963159,cardigan,clip_kmeans,10,9
+475,n02965783,car mirror,clip_kmeans,10,5
+476,n02966193,carousel,clip_kmeans,10,7
+477,n02966687,tool kit,clip_kmeans,10,5
+478,n02971356,cardboard box / carton,clip_kmeans,10,5
+479,n02974003,car wheel,clip_kmeans,10,5
+480,n02977058,automated teller machine,clip_kmeans,10,5
+481,n02978881,cassette,clip_kmeans,10,5
+482,n02979186,cassette player,clip_kmeans,10,5
+483,n02980441,castle,clip_kmeans,10,7
+484,n02981792,catamaran,clip_kmeans,10,7
+485,n02988304,CD player,clip_kmeans,10,5
+486,n02992211,cello,clip_kmeans,10,3
+487,n02992529,mobile phone,clip_kmeans,10,5
+488,n02999410,chain,clip_kmeans,10,5
+489,n03000134,chain-link fence,clip_kmeans,10,5
+490,n03000247,chain mail,clip_kmeans,10,9
+491,n03000684,chainsaw,clip_kmeans,10,3
+492,n03014705,storage chest,clip_kmeans,10,5
+493,n03016953,chiffonier,clip_kmeans,10,5
+494,n03017168,bell or wind chime,clip_kmeans,10,3
+495,n03018349,china cabinet,clip_kmeans,10,5
+496,n03026506,Christmas stocking,clip_kmeans,10,9
+497,n03028079,church,clip_kmeans,10,7
+498,n03032252,movie theater,clip_kmeans,10,5
+499,n03041632,cleaver,clip_kmeans,10,3
+500,n03042490,cliff dwelling,clip_kmeans,10,7
+501,n03045698,cloak,clip_kmeans,10,9
+502,n03047690,clogs,clip_kmeans,10,5
+503,n03062245,cocktail shaker,clip_kmeans,10,3
+504,n03063599,coffee mug,clip_kmeans,10,5
+505,n03063689,coffeemaker,clip_kmeans,10,5
+506,n03065424,spiral or coil,clip_kmeans,10,3
+507,n03075370,combination lock,clip_kmeans,10,5
+508,n03085013,computer keyboard,clip_kmeans,10,5
+509,n03089624,candy store,clip_kmeans,10,5
+510,n03095699,container ship,clip_kmeans,10,7
+511,n03100240,convertible,clip_kmeans,10,7
+512,n03109150,corkscrew,clip_kmeans,10,3
+513,n03110669,cornet,clip_kmeans,10,3
+514,n03124043,cowboy boot,clip_kmeans,10,3
+515,n03124170,cowboy hat,clip_kmeans,10,9
+516,n03125729,cradle,clip_kmeans,10,5
+517,n03126707,construction crane,clip_kmeans,10,7
+518,n03127747,crash helmet,clip_kmeans,10,9
+519,n03127925,crate,clip_kmeans,10,5
+520,n03131574,infant bed,clip_kmeans,10,9
+521,n03133878,Crock Pot,clip_kmeans,10,5
+522,n03134739,croquet ball,clip_kmeans,10,3
+523,n03141823,crutch,clip_kmeans,10,3
+524,n03146219,cuirass,clip_kmeans,10,9
+525,n03160309,dam,clip_kmeans,10,7
+526,n03179701,desk,clip_kmeans,10,5
+527,n03180011,desktop computer,clip_kmeans,10,5
+528,n03187595,rotary dial telephone,clip_kmeans,10,5
+529,n03188531,diaper,clip_kmeans,10,9
+530,n03196217,digital clock,clip_kmeans,10,5
+531,n03197337,digital watch,clip_kmeans,10,5
+532,n03201208,dining table,clip_kmeans,10,5
+533,n03207743,dishcloth,clip_kmeans,10,9
+534,n03207941,dishwasher,clip_kmeans,10,5
+535,n03208938,disc brake,clip_kmeans,10,3
+536,n03216828,dock,clip_kmeans,10,7
+537,n03218198,dog sled,clip_kmeans,10,7
+538,n03220513,dome,clip_kmeans,10,5
+539,n03223299,doormat,clip_kmeans,10,9
+540,n03240683,drilling rig,clip_kmeans,10,7
+541,n03249569,drum,clip_kmeans,10,5
+542,n03250847,drumstick,clip_kmeans,10,3
+543,n03255030,dumbbell,clip_kmeans,10,3
+544,n03259280,Dutch oven,clip_kmeans,10,5
+545,n03271574,electric fan,clip_kmeans,10,5
+546,n03272010,electric guitar,clip_kmeans,10,3
+547,n03272562,electric locomotive,clip_kmeans,10,7
+548,n03290653,entertainment center,clip_kmeans,10,5
+549,n03291819,envelope,clip_kmeans,10,9
+550,n03297495,espresso machine,clip_kmeans,10,5
+551,n03314780,face powder,clip_kmeans,10,3
+552,n03325584,feather boa,clip_kmeans,10,9
+553,n03337140,filing cabinet,clip_kmeans,10,5
+554,n03344393,fireboat,clip_kmeans,10,7
+555,n03345487,fire truck,clip_kmeans,10,7
+556,n03347037,fire screen,clip_kmeans,10,9
+557,n03355925,flagpole,clip_kmeans,10,3
+558,n03372029,flute,clip_kmeans,10,3
+559,n03376595,folding chair,clip_kmeans,10,9
+560,n03379051,football helmet,clip_kmeans,10,9
+561,n03384352,forklift,clip_kmeans,10,7
+562,n03388043,fountain,clip_kmeans,10,5
+563,n03388183,fountain pen,clip_kmeans,10,3
+564,n03388549,four-poster bed,clip_kmeans,10,7
+565,n03393912,freight car,clip_kmeans,10,7
+566,n03394916,French horn,clip_kmeans,10,3
+567,n03400231,frying pan,clip_kmeans,10,3
+568,n03404251,fur coat,clip_kmeans,10,9
+569,n03417042,garbage truck,clip_kmeans,10,7
+570,n03424325,gas mask or respirator,clip_kmeans,10,3
+571,n03425413,gas pump,clip_kmeans,10,5
+572,n03443371,goblet,clip_kmeans,10,5
+573,n03444034,go-kart,clip_kmeans,10,7
+574,n03445777,golf ball,clip_kmeans,10,1
+575,n03445924,golf cart,clip_kmeans,10,7
+576,n03447447,gondola,clip_kmeans,10,7
+577,n03447721,gong,clip_kmeans,10,5
+578,n03450230,gown,clip_kmeans,10,9
+579,n03452741,grand piano,clip_kmeans,10,7
+580,n03457902,greenhouse,clip_kmeans,10,7
+581,n03459775,radiator grille,clip_kmeans,10,5
+582,n03461385,grocery store,clip_kmeans,10,5
+583,n03467068,guillotine,clip_kmeans,10,5
+584,n03476684,hair clip,clip_kmeans,10,3
+585,n03476991,hair spray,clip_kmeans,10,3
+586,n03478589,half-track,clip_kmeans,10,7
+587,n03481172,hammer,clip_kmeans,10,3
+588,n03482405,hamper,clip_kmeans,10,5
+589,n03483316,hair dryer,clip_kmeans,10,3
+590,n03485407,hand-held computer,clip_kmeans,10,5
+591,n03485794,handkerchief,clip_kmeans,10,9
+592,n03492542,hard disk drive,clip_kmeans,10,5
+593,n03494278,harmonica,clip_kmeans,10,3
+594,n03495258,harp,clip_kmeans,10,3
+595,n03496892,combine harvester,clip_kmeans,10,7
+596,n03498962,hatchet,clip_kmeans,10,3
+597,n03527444,holster,clip_kmeans,10,3
+598,n03529860,home theater,clip_kmeans,10,5
+599,n03530642,honeycomb,clip_kmeans,10,1
+600,n03532672,hook,clip_kmeans,10,3
+601,n03534580,hoop skirt,clip_kmeans,10,9
+602,n03535780,gymnastic horizontal bar,clip_kmeans,10,3
+603,n03538406,horse-drawn vehicle,clip_kmeans,10,7
+604,n03544143,hourglass,clip_kmeans,10,5
+605,n03584254,iPod,clip_kmeans,10,5
+606,n03584829,clothes iron,clip_kmeans,10,3
+607,n03590841,carved pumpkin,clip_kmeans,10,1
+608,n03594734,jeans,clip_kmeans,10,9
+609,n03594945,jeep,clip_kmeans,10,7
+610,n03595614,T-shirt,clip_kmeans,10,9
+611,n03598930,jigsaw puzzle,clip_kmeans,10,5
+612,n03599486,rickshaw,clip_kmeans,10,7
+613,n03602883,joystick,clip_kmeans,10,3
+614,n03617480,kimono,clip_kmeans,10,9
+615,n03623198,knee pad,clip_kmeans,10,9
+616,n03627232,knot,clip_kmeans,10,3
+617,n03630383,lab coat,clip_kmeans,10,9
+618,n03633091,ladle,clip_kmeans,10,3
+619,n03637318,lampshade,clip_kmeans,10,9
+620,n03642806,laptop computer,clip_kmeans,10,5
+621,n03649909,lawn mower,clip_kmeans,10,1
+622,n03657121,lens cap,clip_kmeans,10,3
+623,n03658185,letter opener,clip_kmeans,10,3
+624,n03661043,library,clip_kmeans,10,5
+625,n03662601,lifeboat,clip_kmeans,10,7
+626,n03666591,lighter,clip_kmeans,10,3
+627,n03670208,limousine,clip_kmeans,10,7
+628,n03673027,ocean liner,clip_kmeans,10,7
+629,n03676483,lipstick,clip_kmeans,10,3
+630,n03680355,slip-on shoe,clip_kmeans,10,3
+631,n03690938,lotion,clip_kmeans,10,3
+632,n03691459,music speaker,clip_kmeans,10,5
+633,n03692522,loupe magnifying glass,clip_kmeans,10,3
+634,n03697007,sawmill,clip_kmeans,10,7
+635,n03706229,magnetic compass,clip_kmeans,10,5
+636,n03709823,messenger bag,clip_kmeans,10,9
+637,n03710193,mailbox,clip_kmeans,10,5
+638,n03710637,tights,clip_kmeans,10,9
+639,n03710721,one-piece bathing suit,clip_kmeans,10,9
+640,n03717622,manhole cover,clip_kmeans,10,5
+641,n03720891,maraca,clip_kmeans,10,3
+642,n03721384,marimba,clip_kmeans,10,7
+643,n03724870,mask,clip_kmeans,10,9
+644,n03729826,matchstick,clip_kmeans,10,3
+645,n03733131,maypole,clip_kmeans,10,3
+646,n03733281,maze,clip_kmeans,10,5
+647,n03733805,measuring cup,clip_kmeans,10,3
+648,n03742115,medicine cabinet,clip_kmeans,10,5
+649,n03743016,megalith,clip_kmeans,10,5
+650,n03759954,microphone,clip_kmeans,10,3
+651,n03761084,microwave oven,clip_kmeans,10,5
+652,n03763968,military uniform,clip_kmeans,10,9
+653,n03764736,milk can,clip_kmeans,10,5
+654,n03769881,minibus,clip_kmeans,10,7
+655,n03770439,miniskirt,clip_kmeans,10,9
+656,n03770679,minivan,clip_kmeans,10,7
+657,n03773504,missile,clip_kmeans,10,7
+658,n03775071,mitten,clip_kmeans,10,9
+659,n03775546,mixing bowl,clip_kmeans,10,5
+660,n03776460,mobile home,clip_kmeans,10,7
+661,n03777568,ford model t,clip_kmeans,10,7
+662,n03777754,modem,clip_kmeans,10,5
+663,n03781244,monastery,clip_kmeans,10,7
+664,n03782006,monitor,clip_kmeans,10,5
+665,n03785016,moped,clip_kmeans,10,7
+666,n03786901,mortar and pestle,clip_kmeans,10,3
+667,n03787032,graduation cap,clip_kmeans,10,9
+668,n03788195,mosque,clip_kmeans,10,7
+669,n03788365,mosquito net,clip_kmeans,10,9
+670,n03791053,vespa,clip_kmeans,10,7
+671,n03792782,mountain bike,clip_kmeans,10,7
+672,n03792972,tent,clip_kmeans,10,9
+673,n03793489,computer mouse,clip_kmeans,10,5
+674,n03794056,mousetrap,clip_kmeans,10,3
+675,n03796401,moving van,clip_kmeans,10,7
+676,n03803284,muzzle,clip_kmeans,10,3
+677,n03804744,metal nail,clip_kmeans,10,3
+678,n03814639,neck brace,clip_kmeans,10,9
+679,n03814906,necklace,clip_kmeans,10,5
+680,n03825788,baby pacifier,clip_kmeans,10,3
+681,n03832673,notebook computer,clip_kmeans,10,5
+682,n03837869,obelisk,clip_kmeans,10,5
+683,n03838899,oboe,clip_kmeans,10,3
+684,n03840681,ocarina,clip_kmeans,10,3
+685,n03841143,odometer,clip_kmeans,10,5
+686,n03843555,oil filter,clip_kmeans,10,3
+687,n03854065,pipe organ,clip_kmeans,10,5
+688,n03857828,oscilloscope,clip_kmeans,10,5
+689,n03866082,overskirt,clip_kmeans,10,9
+690,n03868242,bullock cart,clip_kmeans,10,7
+691,n03868863,oxygen mask,clip_kmeans,10,3
+692,n03871628,product packet / packaging,clip_kmeans,10,5
+693,n03873416,paddle,clip_kmeans,10,3
+694,n03874293,paddle wheel,clip_kmeans,10,7
+695,n03874599,padlock,clip_kmeans,10,3
+696,n03876231,paintbrush,clip_kmeans,10,3
+697,n03877472,pajamas,clip_kmeans,10,9
+698,n03877845,palace,clip_kmeans,10,7
+699,n03884397,pan flute,clip_kmeans,10,3
+700,n03887697,paper towel,clip_kmeans,10,9
+701,n03888257,parachute,clip_kmeans,10,9
+702,n03888605,parallel bars,clip_kmeans,10,3
+703,n03891251,park bench,clip_kmeans,10,7
+704,n03891332,parking meter,clip_kmeans,10,5
+705,n03895866,railroad car,clip_kmeans,10,7
+706,n03899768,patio,clip_kmeans,10,5
+707,n03902125,payphone,clip_kmeans,10,5
+708,n03903868,pedestal,clip_kmeans,10,5
+709,n03908618,pencil case,clip_kmeans,10,9
+710,n03908714,pencil sharpener,clip_kmeans,10,3
+711,n03916031,perfume,clip_kmeans,10,5
+712,n03920288,Petri dish,clip_kmeans,10,1
+713,n03924679,photocopier,clip_kmeans,10,5
+714,n03929660,plectrum,clip_kmeans,10,3
+715,n03929855,Pickelhaube,clip_kmeans,10,3
+716,n03930313,picket fence,clip_kmeans,10,3
+717,n03930630,pickup truck,clip_kmeans,10,7
+718,n03933933,pier,clip_kmeans,10,7
+719,n03935335,piggy bank,clip_kmeans,10,5
+720,n03937543,pill bottle,clip_kmeans,10,3
+721,n03938244,pillow,clip_kmeans,10,9
+722,n03942813,ping-pong ball,clip_kmeans,10,1
+723,n03944341,pinwheel,clip_kmeans,10,3
+724,n03947888,pirate ship,clip_kmeans,10,7
+725,n03950228,drink pitcher,clip_kmeans,10,5
+726,n03954731,block plane,clip_kmeans,10,3
+727,n03956157,planetarium,clip_kmeans,10,7
+728,n03958227,plastic bag,clip_kmeans,10,9
+729,n03961711,plate rack,clip_kmeans,10,5
+730,n03967562,farm plow,clip_kmeans,10,7
+731,n03970156,plunger,clip_kmeans,10,3
+732,n03976467,Polaroid camera,clip_kmeans,10,5
+733,n03976657,pole,clip_kmeans,10,3
+734,n03977966,police van,clip_kmeans,10,7
+735,n03980874,poncho,clip_kmeans,10,9
+736,n03982430,pool table,clip_kmeans,10,5
+737,n03983396,soda bottle,clip_kmeans,10,3
+738,n03991062,plant pot,clip_kmeans,10,5
+739,n03992509,potter's wheel,clip_kmeans,10,5
+740,n03995372,power drill,clip_kmeans,10,3
+741,n03998194,prayer rug,clip_kmeans,10,9
+742,n04004767,printer,clip_kmeans,10,5
+743,n04005630,prison,clip_kmeans,10,7
+744,n04008634,missile,clip_kmeans,10,7
+745,n04009552,projector,clip_kmeans,10,5
+746,n04019541,hockey puck,clip_kmeans,10,3
+747,n04023962,punching bag,clip_kmeans,10,9
+748,n04026417,purse,clip_kmeans,10,9
+749,n04033901,quill,clip_kmeans,10,3
+750,n04033995,quilt,clip_kmeans,10,9
+751,n04037443,race car,clip_kmeans,10,7
+752,n04039381,racket,clip_kmeans,10,3
+753,n04040759,radiator,clip_kmeans,10,5
+754,n04041544,radio,clip_kmeans,10,5
+755,n04044716,radio telescope,clip_kmeans,10,7
+756,n04049303,rain barrel,clip_kmeans,10,5
+757,n04065272,recreational vehicle,clip_kmeans,10,7
+758,n04067472,fishing casting reel,clip_kmeans,10,3
+759,n04069434,reflex camera,clip_kmeans,10,5
+760,n04070727,refrigerator,clip_kmeans,10,5
+761,n04074963,remote control,clip_kmeans,10,3
+762,n04081281,restaurant,clip_kmeans,10,5
+763,n04086273,revolver,clip_kmeans,10,3
+764,n04090263,rifle,clip_kmeans,10,3
+765,n04099969,rocking chair,clip_kmeans,10,5
+766,n04111531,rotisserie,clip_kmeans,10,1
+767,n04116512,eraser,clip_kmeans,10,3
+768,n04118538,rugby ball,clip_kmeans,10,1
+769,n04118776,ruler measuring stick,clip_kmeans,10,3
+770,n04120489,sneaker,clip_kmeans,10,5
+771,n04125021,safe,clip_kmeans,10,5
+772,n04127249,safety pin,clip_kmeans,10,3
+773,n04131690,salt shaker,clip_kmeans,10,3
+774,n04133789,sandal,clip_kmeans,10,3
+775,n04136333,sarong,clip_kmeans,10,9
+776,n04141076,saxophone,clip_kmeans,10,3
+777,n04141327,scabbard,clip_kmeans,10,3
+778,n04141975,weighing scale,clip_kmeans,10,5
+779,n04146614,school bus,clip_kmeans,10,7
+780,n04147183,schooner,clip_kmeans,10,7
+781,n04149813,scoreboard,clip_kmeans,10,5
+782,n04152593,CRT monitor,clip_kmeans,10,5
+783,n04153751,screw,clip_kmeans,10,3
+784,n04154565,screwdriver,clip_kmeans,10,3
+785,n04162706,seat belt,clip_kmeans,10,3
+786,n04179913,sewing machine,clip_kmeans,10,5
+787,n04192698,shield,clip_kmeans,10,5
+788,n04200800,shoe store,clip_kmeans,10,5
+789,n04201297,shoji screen / room divider,clip_kmeans,10,5
+790,n04204238,shopping basket,clip_kmeans,10,5
+791,n04204347,shopping cart,clip_kmeans,10,7
+792,n04208210,shovel,clip_kmeans,10,3
+793,n04209133,shower cap,clip_kmeans,10,9
+794,n04209239,shower curtain,clip_kmeans,10,9
+795,n04228054,ski,clip_kmeans,10,1
+796,n04229816,balaclava ski mask,clip_kmeans,10,9
+797,n04235860,sleeping bag,clip_kmeans,10,9
+798,n04238763,slide rule,clip_kmeans,10,3
+799,n04239074,sliding door,clip_kmeans,10,5
+800,n04243546,slot machine,clip_kmeans,10,5
+801,n04251144,snorkel,clip_kmeans,10,3
+802,n04252077,snowmobile,clip_kmeans,10,7
+803,n04252225,snowplow,clip_kmeans,10,7
+804,n04254120,soap dispenser,clip_kmeans,10,5
+805,n04254680,soccer ball,clip_kmeans,10,1
+806,n04254777,sock,clip_kmeans,10,9
+807,n04258138,solar thermal collector,clip_kmeans,10,5
+808,n04259630,sombrero,clip_kmeans,10,1
+809,n04263257,soup bowl,clip_kmeans,10,5
+810,n04264628,keyboard space bar,clip_kmeans,10,5
+811,n04265275,space heater,clip_kmeans,10,5
+812,n04266014,space shuttle,clip_kmeans,10,7
+813,n04270147,spatula,clip_kmeans,10,3
+814,n04273569,motorboat,clip_kmeans,10,7
+815,n04275548,spider web,clip_kmeans,10,8
+816,n04277352,spindle,clip_kmeans,10,3
+817,n04285008,sports car,clip_kmeans,10,7
+818,n04286575,spotlight,clip_kmeans,10,5
+819,n04296562,stage,clip_kmeans,10,5
+820,n04310018,steam locomotive,clip_kmeans,10,7
+821,n04311004,through arch bridge,clip_kmeans,10,7
+822,n04311174,steel drum,clip_kmeans,10,5
+823,n04317175,stethoscope,clip_kmeans,10,3
+824,n04325704,scarf,clip_kmeans,10,9
+825,n04326547,stone wall,clip_kmeans,10,5
+826,n04328186,stopwatch,clip_kmeans,10,5
+827,n04330267,stove,clip_kmeans,10,5
+828,n04332243,strainer,clip_kmeans,10,3
+829,n04335435,tram,clip_kmeans,10,7
+830,n04336792,stretcher,clip_kmeans,10,7
+831,n04344873,couch,clip_kmeans,10,9
+832,n04346328,stupa,clip_kmeans,10,7
+833,n04347754,submarine,clip_kmeans,10,7
+834,n04350905,suit,clip_kmeans,10,9
+835,n04355338,sundial,clip_kmeans,10,5
+836,n04355933,sunglasses,clip_kmeans,10,9
+837,n04356056,sunglasses,clip_kmeans,10,9
+838,n04357314,sunscreen,clip_kmeans,10,3
+839,n04366367,suspension bridge,clip_kmeans,10,7
+840,n04367480,mop,clip_kmeans,10,1
+841,n04370456,sweatshirt,clip_kmeans,10,9
+842,n04371430,swim trunks / shorts,clip_kmeans,10,9
+843,n04371774,swing,clip_kmeans,10,7
+844,n04372370,electrical switch,clip_kmeans,10,5
+845,n04376876,syringe,clip_kmeans,10,3
+846,n04380533,table lamp,clip_kmeans,10,5
+847,n04389033,tank,clip_kmeans,10,7
+848,n04392985,tape player,clip_kmeans,10,5
+849,n04398044,teapot,clip_kmeans,10,5
+850,n04399382,teddy bear,clip_kmeans,10,1
+851,n04404412,television,clip_kmeans,10,5
+852,n04409515,tennis ball,clip_kmeans,10,1
+853,n04417672,thatched roof,clip_kmeans,10,7
+854,n04418357,front curtain,clip_kmeans,10,9
+855,n04423845,thimble,clip_kmeans,10,3
+856,n04428191,threshing machine,clip_kmeans,10,7
+857,n04429376,throne,clip_kmeans,10,5
+858,n04435653,tile roof,clip_kmeans,10,5
+859,n04442312,toaster,clip_kmeans,10,5
+860,n04443257,tobacco shop,clip_kmeans,10,5
+861,n04447861,toilet seat,clip_kmeans,10,5
+862,n04456115,torch,clip_kmeans,10,3
+863,n04458633,totem pole,clip_kmeans,10,5
+864,n04461696,tow truck,clip_kmeans,10,7
+865,n04462240,toy store,clip_kmeans,10,5
+866,n04465501,tractor,clip_kmeans,10,7
+867,n04467665,semi-trailer truck,clip_kmeans,10,7
+868,n04476259,tray,clip_kmeans,10,5
+869,n04479046,trench coat,clip_kmeans,10,9
+870,n04482393,tricycle,clip_kmeans,10,7
+871,n04483307,trimaran,clip_kmeans,10,7
+872,n04485082,tripod,clip_kmeans,10,3
+873,n04486054,triumphal arch,clip_kmeans,10,7
+874,n04487081,trolleybus,clip_kmeans,10,7
+875,n04487394,trombone,clip_kmeans,10,3
+876,n04493381,hot tub,clip_kmeans,10,5
+877,n04501370,turnstile,clip_kmeans,10,5
+878,n04505470,typewriter keyboard,clip_kmeans,10,5
+879,n04507155,umbrella,clip_kmeans,10,9
+880,n04509417,unicycle,clip_kmeans,10,3
+881,n04515003,upright piano,clip_kmeans,10,5
+882,n04517823,vacuum cleaner,clip_kmeans,10,3
+883,n04522168,vase,clip_kmeans,10,5
+884,n04523525,vaulted or arched ceiling,clip_kmeans,10,7
+885,n04525038,velvet fabric,clip_kmeans,10,9
+886,n04525305,vending machine,clip_kmeans,10,5
+887,n04532106,vestment,clip_kmeans,10,9
+888,n04532670,viaduct,clip_kmeans,10,7
+889,n04536866,violin,clip_kmeans,10,3
+890,n04540053,volleyball,clip_kmeans,10,1
+891,n04542943,waffle iron,clip_kmeans,10,5
+892,n04548280,wall clock,clip_kmeans,10,5
+893,n04548362,wallet,clip_kmeans,10,9
+894,n04550184,wardrobe,clip_kmeans,10,5
+895,n04552348,military aircraft,clip_kmeans,10,7
+896,n04553703,sink,clip_kmeans,10,5
+897,n04554684,washing machine,clip_kmeans,10,5
+898,n04557648,water bottle,clip_kmeans,10,3
+899,n04560804,water jug,clip_kmeans,10,5
+900,n04562935,water tower,clip_kmeans,10,5
+901,n04579145,whiskey jug,clip_kmeans,10,3
+902,n04579432,whistle,clip_kmeans,10,3
+903,n04584207,hair wig,clip_kmeans,10,9
+904,n04589890,window screen,clip_kmeans,10,9
+905,n04590129,window shade,clip_kmeans,10,9
+906,n04591157,Windsor tie,clip_kmeans,10,9
+907,n04591713,wine bottle,clip_kmeans,10,3
+908,n04592741,airplane wing,clip_kmeans,10,7
+909,n04596742,wok,clip_kmeans,10,5
+910,n04597913,wooden spoon,clip_kmeans,10,3
+911,n04599235,wool,clip_kmeans,10,1
+912,n04604644,split-rail fence,clip_kmeans,10,3
+913,n04606251,shipwreck,clip_kmeans,10,7
+914,n04612504,sailboat,clip_kmeans,10,7
+915,n04613696,yurt,clip_kmeans,10,7
+916,n06359193,website,clip_kmeans,10,5
+917,n06596364,comic book,clip_kmeans,10,5
+918,n06785654,crossword,clip_kmeans,10,5
+919,n06794110,traffic or street sign,clip_kmeans,10,5
+920,n06874185,traffic light,clip_kmeans,10,5
+921,n07248320,dust jacket,clip_kmeans,10,9
+922,n07565083,menu,clip_kmeans,10,5
+923,n07579787,plate,clip_kmeans,10,5
+924,n07583066,guacamole,clip_kmeans,10,1
+925,n07584110,consomme,clip_kmeans,10,5
+926,n07590611,hot pot,clip_kmeans,10,5
+927,n07613480,trifle,clip_kmeans,10,5
+928,n07614500,ice cream,clip_kmeans,10,1
+929,n07615774,popsicle,clip_kmeans,10,3
+930,n07684084,baguette,clip_kmeans,10,1
+931,n07693725,bagel,clip_kmeans,10,1
+932,n07695742,pretzel,clip_kmeans,10,1
+933,n07697313,cheeseburger,clip_kmeans,10,1
+934,n07697537,hot dog,clip_kmeans,10,1
+935,n07711569,mashed potatoes,clip_kmeans,10,1
+936,n07714571,cabbage,clip_kmeans,10,1
+937,n07714990,broccoli,clip_kmeans,10,1
+938,n07715103,cauliflower,clip_kmeans,10,1
+939,n07716358,zucchini,clip_kmeans,10,1
+940,n07716906,spaghetti squash,clip_kmeans,10,1
+941,n07717410,acorn squash,clip_kmeans,10,1
+942,n07717556,butternut squash,clip_kmeans,10,1
+943,n07718472,cucumber,clip_kmeans,10,1
+944,n07718747,artichoke,clip_kmeans,10,1
+945,n07720875,bell pepper,clip_kmeans,10,1
+946,n07730033,cardoon,clip_kmeans,10,2
+947,n07734744,mushroom,clip_kmeans,10,1
+948,n07742313,Granny Smith apple,clip_kmeans,10,1
+949,n07745940,strawberry,clip_kmeans,10,1
+950,n07747607,orange,clip_kmeans,10,1
+951,n07749582,lemon,clip_kmeans,10,1
+952,n07753113,fig,clip_kmeans,10,1
+953,n07753275,pineapple,clip_kmeans,10,1
+954,n07753592,banana,clip_kmeans,10,1
+955,n07754684,jackfruit,clip_kmeans,10,1
+956,n07760859,cherimoya (custard apple),clip_kmeans,10,2
+957,n07768694,pomegranate,clip_kmeans,10,1
+958,n07802026,hay,clip_kmeans,10,1
+959,n07831146,carbonara,clip_kmeans,10,1
+960,n07836838,chocolate syrup,clip_kmeans,10,1
+961,n07860988,dough,clip_kmeans,10,1
+962,n07871810,meatloaf,clip_kmeans,10,1
+963,n07873807,pizza,clip_kmeans,10,1
+964,n07875152,pot pie,clip_kmeans,10,1
+965,n07880968,burrito,clip_kmeans,10,1
+966,n07892512,red wine,clip_kmeans,10,1
+967,n07920052,espresso,clip_kmeans,10,1
+968,n07930864,tea cup,clip_kmeans,10,5
+969,n07932039,eggnog,clip_kmeans,10,1
+970,n09193705,mountain,clip_kmeans,10,7
+971,n09229709,bubble,clip_kmeans,10,1
+972,n09246464,cliff,clip_kmeans,10,7
+973,n09256479,coral reef,clip_kmeans,10,8
+974,n09288635,geyser,clip_kmeans,10,5
+975,n09332890,lakeshore,clip_kmeans,10,7
+976,n09399592,promontory,clip_kmeans,10,5
+977,n09421951,sandbar,clip_kmeans,10,7
+978,n09428293,beach,clip_kmeans,10,7
+979,n09468604,valley,clip_kmeans,10,7
+980,n09472597,volcano,clip_kmeans,10,1
+981,n09835506,baseball player,clip_kmeans,10,1
+982,n10148035,bridegroom,clip_kmeans,10,7
+983,n10565667,scuba diver,clip_kmeans,10,8
+984,n11879895,rapeseed,clip_kmeans,10,1
+985,n11939491,daisy,clip_kmeans,10,1
+986,n12057211,yellow lady's slipper,clip_kmeans,10,2
+987,n12144580,corn,clip_kmeans,10,1
+988,n12267677,acorn,clip_kmeans,10,1
+989,n12620546,rose hip,clip_kmeans,10,1
+990,n12768682,horse chestnut seed,clip_kmeans,10,2
+991,n12985857,coral fungus,clip_kmeans,10,2
+992,n12998815,agaric,clip_kmeans,10,1
+993,n13037406,gyromitra,clip_kmeans,10,2
+994,n13040303,stinkhorn mushroom,clip_kmeans,10,2
+995,n13044778,earth star fungus,clip_kmeans,10,2
+996,n13052670,hen of the woods mushroom,clip_kmeans,10,2
+997,n13054560,bolete,clip_kmeans,10,2
+998,n13133613,corn cob,clip_kmeans,10,1
+999,n15075141,toilet paper,clip_kmeans,10,9

@@ -1,0 +1,57 @@
+# Coarse-to-Fine training configuration (paper settings)
+
+model:
+  backbone: tic
+  quality: 8                     # TIC quality 8 -> N=192, M=320 latent channels
+  chunks:                        # prefix blocks; must sum to 320
+    coarse: 128                  # prefix 128  -> K=10 objective
+    inter: 96                    # prefix 224  -> K=100 objective
+    fine: 96                     # prefix 320  -> K=1000 objective
+  delta_network:
+    enabled: true
+    hidden: 384
+    depth: 3
+    attn: true
+    clamp_delta_scale: 0.5       # delta_s = clamp * tanh(delta_s); <=0 disables clamping
+
+loss:
+  lmbda:                         # distortion weights per level
+    coarse: 1.0e-4
+    inter: 1.0e-3
+    fine: 1.0e-2
+  ce_weight:                     # task (semantic CE) weights per level
+    coarse: 0.5
+    inter: 1.0
+    fine: 2.0
+  mse_weight:                    # extra per-level MSE scaling
+    coarse: 0.33
+    inter: 0.67
+    fine: 1.0
+  label_smoothing: 0.1
+
+data:
+  train_root: datasets/ImageNet/train
+  val_root: datasets/ImageNet/val
+  hierarchy_dir: hierarchy
+  train_subset: 80000            # random subset per run; <=0 uses the full split
+  val_subset: 5000
+  num_workers: 8
+
+train:
+  epochs: 100
+  learning_rate: 1.0e-4
+  aux_learning_rate: 1.0e-3
+  batch_size: 8                  # per GPU
+  test_batch_size: 16            # per GPU
+  seed: 42
+  clip_max_norm: 1.0
+  save_dir: results/coarse2fine
+  checkpoint: null               # resume / warm-start path
+  resume_optim: true
+  log_acc: true                  # log hierarchical top-1 during training
+
+wandb:
+  enabled: true
+  project: Coarse2Fine
+  entity: null
+  log_interval: 50
