@@ -58,6 +58,12 @@ CUDA_VISIBLE_DEVICES=0 python eval.py \
   --save_dir results/eval
 ```
 
+## License
+
+See [LICENSE](LICENSE).
+
+This repository is polished by Claude Code for official release.
+
 ## Citation
 
 ```
